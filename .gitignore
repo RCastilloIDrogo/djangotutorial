@@ -1,5 +1,5 @@
 # Archivos de base de datos local (si no es compartida)
-*.sqlite3
+.sqlite3
 
 # Entorno virtual
 venv/

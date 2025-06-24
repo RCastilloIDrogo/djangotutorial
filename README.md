@@ -4,7 +4,7 @@ Este repositorio contiene mi práctica con Django siguiendo el tutorial oficial 
 
 ---
 
-## 🧭 Índice
+## 📒 Índice
 
 - [📌 Estructura del proyecto](#estructura-del-proyecto)
 - [✅ Avances personales](#avances-personales)
@@ -110,5 +110,5 @@ No tengo que implementarlos desde cero. Ya están en uso, y debo:
 
 ## 📂 Documentación extendida
 
-👉 [Ver apuntes completos](docs/apuntes.md) _(puedes crear este archivo si tu README crece demasiado)_  
+👉 [Ver apuntes completos](docs/apuntes.md)
 👉 [Ver buenas prácticas](docs/buenas-practicas.md)
